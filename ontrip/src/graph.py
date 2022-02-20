@@ -1,3 +1,4 @@
+from math import inf
 from dataclasses import dataclass, field
 from queue import Queue
 from typing import List, Optional
@@ -78,3 +79,13 @@ class Graph:
         if len(path) == 1:
             return None
         return path
+
+    def dijkstra(self, start):
+        distance = {}
+        visited = {}
+
+        for node in self.graph.keys():
+            visited[node] = False
+            distance[node] = inf
+
+        distance[start] = 0
