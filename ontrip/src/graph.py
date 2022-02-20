@@ -9,14 +9,14 @@ class Graph:
     """
     This class implements the Graph structure in python
     """
-    edges: List[tuple[str, str]]
+    edges: List[tuple[str, str , int]]
     graph: Optional[dict] = field(default_factory=dict)
 
     def init_graph(self) -> None:
         """
         Created the graph dict struct with source and destination airports
         """
-        for x, y in self.edges:
+        for x, y, _ in self.edges:
             self.graph.setdefault(x, list()).append(y)
 
     def get_edges(self) -> List[tuple[str, str]]:
@@ -81,11 +81,32 @@ class Graph:
         return path
 
     def dijkstra(self, start):
-        distance = {}
-        visited = {}
+        nodes = self.get_nodes()
+        distances = {}
+        adjacents = {n: {} for n in nodes}
 
-        for node in self.graph.keys():
-            visited[node] = False
-            distance[node] = inf
+        for first, second, distance in self.edges:
+            distances[first] = (inf, None)
+            distances[second] = (inf, None)
+            adjacents.setdefault(first, dict())[second] = distance
+            adjacents.setdefault(second, dict())[first] = distance
+        distances[start] = (0, start)
 
-        distance[start] = 0
+        temporary_nodes = [n for n in nodes]
+        while len(temporary_nodes) > 0:
+            upper_bounds = {n: distances[n] for n in temporary_nodes}
+            lower_bound = min(upper_bounds, key=lambda v: upper_bounds.get(v)[0])
+            temporary_nodes.remove(lower_bound)
+
+            for node, distance in adjacents[lower_bound].items():
+                new_distance = (distances[lower_bound][0] + distance, lower_bound)
+                distances[node] = min(distances[node], new_distance, key=lambda v:v[0])
+
+        return distances
+
+    # def find_shortest_path(self, start, end):
+    #     dijkstra_dict = self.dijkstra(start=start)
+    #     path = list()
+
+    #     end_tuple = dijkstra_dict.get(end)
+    #     while end_tuple[1] != start

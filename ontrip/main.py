@@ -30,7 +30,7 @@ async def airports():
 async def graph():
     edges = read_csv(
         path="./data/routes.csv",
-        cols=["source", "destination"]
+        cols=["source", "destination", "distance"]
     )
     graph = Graph(edges=edges)
     graph.init_graph()
@@ -40,7 +40,7 @@ async def graph():
 async def find_path(path: Path):
     edges = read_csv(
         path="./data/routes.csv",
-        cols=["source", "destination"]
+        cols=["source", "destination", "distance"]
     )
     graph = Graph(edges=edges)
     graph.init_graph()
