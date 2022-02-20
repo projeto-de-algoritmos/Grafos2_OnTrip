@@ -1,0 +1,265 @@
+airport_id,name,city,country,iata,icao,latitude,longitude,altitude,timezone,dst,timezone,type,source
+2518,Conceição do Araguaia Airport,Conceicao Do Araguaia,Brazil,CDJ,SBAA,-8.348349571228027,-49.30149841308594,653,-3,S,America/Belem,airport,OurAirports
+2519,Campo Délio Jardim de Mattos Airport,Rio De Janeiro,Brazil,\N,SBAF,-22.875099,-43.384701,110,-3,S,America/Sao_Paulo,airport,OurAirports
+2520,Amapá Airport,Amapa,Brazil,\N,SBAM,2.0775099999999997,-50.8582,45,-3,S,America/Fortaleza,airport,OurAirports
+2521,Araraquara Airport,Araracuara,Brazil,AQA,SBAQ,-21.812000274699997,-48.13299942020001,2334,-3,S,America/Sao_Paulo,airport,OurAirports
+2522,Santa Maria Airport,Aracaju,Brazil,AJU,SBAR,-10.984000206,-37.0703010559,23,-3,S,America/Fortaleza,airport,OurAirports
+2524,Piloto Osvaldo Marques Dias Airport,Alta Floresta,Brazil,AFL,SBAT,-9.866389274600001,-56.104999542200005,948,-4,S,America/Campo_Grande,airport,OurAirports
+2525,Araçatuba Airport,Aracatuba,Brazil,ARU,SBAU,-21.1413002014,-50.4247016907,1361,-3,S,America/Sao_Paulo,airport,OurAirports
+2526,Val de Cans/Júlio Cezar Ribeiro International Airport,Belem,Brazil,BEL,SBBE,-1.3792500495900002,-48.476299285900005,54,-3,S,America/Belem,airport,OurAirports
+2527,Comandante Gustavo Kraemer Airport,Bage,Brazil,BGX,SBBG,-31.39049911499,-54.112201690674,600,-3,S,America/Sao_Paulo,airport,OurAirports
+2528,Pampulha - Carlos Drummond de Andrade Airport,Belo Horizonte,Brazil,PLU,SBBH,-19.851200103759766,-43.950599670410156,2589,-3,S,America/Sao_Paulo,airport,OurAirports
+2529,Bacacheri Airport,Curitiba,Brazil,BFH,SBBI,-25.4050998688,-49.2319984436,3057,-3,S,America/Sao_Paulo,airport,OurAirports
+2530,Major Brigadeiro Doorgal Borges Airport,Barbacena,Brazil,\N,SBBQ,-21.2672,-43.761101000000004,3657,-3,S,America/Sao_Paulo,airport,OurAirports
+2531,Presidente Juscelino Kubistschek International Airport,Brasilia,Brazil,BSB,SBBR,-15.86916732788086,-47.92083358764648,3497,-3,S,America/Sao_Paulo,airport,OurAirports
+2532,Bauru Airport,Bauru,Brazil,BAU,SBBU,-22.344999313400002,-49.053798675500005,2025,-3,S,America/Sao_Paulo,airport,OurAirports
+2533,Atlas Brasil Cantanhede Airport,Boa Vista,Brazil,BVB,SBBV,2.8413889408099995,-60.69222259520001,276,-4,S,America/Boa_Vista,airport,OurAirports
+2534,Barra do Garças Airport,Barra Do Garcas,Brazil,BPG,SBBW,-15.8613004684,-52.388900756800005,1147,-4,S,America/Campo_Grande,airport,OurAirports
+2535,Cascavel Airport,Cascavel,Brazil,CAC,SBCA,-25.0002994537,-53.5008010864,2473,-3,S,America/Sao_Paulo,airport,OurAirports
+2536,Cachimbo Airport,Itaituba,Brazil,\N,SBCC,-9.333939552310001,-54.9654006958,1762,-3,S,America/Belem,airport,OurAirports
+2537,Tancredo Neves International Airport,Belo Horizonte,Brazil,CNF,SBCF,-19.62444305419922,-43.97194290161133,2715,-3,S,America/Sao_Paulo,airport,OurAirports
+2538,Campo Grande Airport,Campo Grande,Brazil,CGR,SBCG,-20.468700408900002,-54.6725006104,1833,-4,S,America/Campo_Grande,airport,OurAirports
+2539,Serafin Enoss Bertaso Airport,Chapeco,Brazil,XAP,SBCH,-27.134199142456,-52.656600952148,2146,-3,S,America/Sao_Paulo,airport,OurAirports
+2540,Brig. Lysias Augusto Rodrigues Airport,Carolina,Brazil,CLN,SBCI,-7.32043981552124,-47.45869827270508,565,-3,S,America/Fortaleza,airport,OurAirports
+2541,Diomício Freitas Airport,Criciuma,Brazil,CCM,SBCM,-28.724443435700003,-49.4213905334,93,-3,S,America/Sao_Paulo,airport,OurAirports
+2542,Canoas Air Force Base,Porto Alegre,Brazil,\N,SBCO,-29.945928000000002,-51.144413,26,-3,S,America/Sao_Paulo,airport,OurAirports
+2543,Bartolomeu Lisandro Airport,Campos,Brazil,CAW,SBCP,-21.698299408,-41.301700591999996,57,-3,S,America/Sao_Paulo,airport,OurAirports
+2544,Corumbá International Airport,Corumba,Brazil,CMG,SBCR,-19.0119438171,-57.6713905334,461,-4,S,America/Campo_Grande,airport,OurAirports
+2545,Afonso Pena Airport,Curitiba,Brazil,CWB,SBCT,-25.5284996033,-49.175800323500006,2988,-3,S,America/Sao_Paulo,airport,OurAirports
+2546,Caravelas Airport,Caravelas,Brazil,CRQ,SBCV,-17.652299880981,-39.253101348877,36,-3,S,America/Fortaleza,airport,OurAirports
+2547,Hugo Cantergiani Regional Airport,Caxias Do Sul,Brazil,CXJ,SBCX,-29.197099685700003,-51.1875,2472,-3,S,America/Sao_Paulo,airport,OurAirports
+2548,Marechal Rondon Airport,Cuiaba,Brazil,CGB,SBCY,-15.6528997421,-56.1166992188,617,-4,S,America/Campo_Grande,airport,OurAirports
+2549,Cruzeiro do Sul Airport,Cruzeiro do Sul,Brazil,CZS,SBCZ,-7.59990978241,-72.7695007324,637,-5,S,America/Rio_Branco,airport,OurAirports
+2550,Presidente Prudente Airport,President Prudente,Brazil,PPB,SBDN,-22.1751003265,-51.4245986938,1477,-3,S,America/Sao_Paulo,airport,OurAirports
+2551,Eduardo Gomes International Airport,Manaus,Brazil,MAO,SBEG,-3.038609981536865,-60.04970169067383,264,-4,S,America/Boa_Vista,airport,OurAirports
+2552,Jacareacanga Airport,Jacare-acanga,Brazil,JCR,SBEK,-6.2331600189208975,-57.77690124511719,323,-3,S,America/Belem,airport,OurAirports
+2553,São Pedro da Aldeia Airport,Sao Pedro Da Aldeia,Brazil,\N,SBES,-22.81290054321289,-42.09260177612305,61,-3,S,America/Sao_Paulo,airport,OurAirports
+2554,Cataratas International Airport,Foz Do Iguacu,Brazil,IGU,SBFI,-25.60027885437012,-54.48500061035156,786,-3,S,America/Sao_Paulo,airport,OurAirports
+2555,Hercílio Luz International Airport,Florianopolis,Brazil,FLN,SBFL,-27.670278549194336,-48.5525016784668,16,-3,S,America/Sao_Paulo,airport,OurAirports
+2556,Fernando de Noronha Airport,Fernando Do Noronha,Brazil,FEN,SBFN,-3.8549300000000004,-32.423302,193,-3,S,America/Fortaleza,airport,OurAirports
+2558,Furnas Airport,Alpinopolis,Brazil,\N,SBFU,-20.702800750732425,-46.33530044555664,2413,-3,S,America/Sao_Paulo,airport,OurAirports
+2559,Pinto Martins International Airport,Fortaleza,Brazil,FOR,SBFZ,-3.776279926300049,-38.53260040283203,82,-3,S,America/Fortaleza,airport,OurAirports
+2560,Rio Galeão – Tom Jobim International Airport,Rio De Janeiro,Brazil,GIG,SBGL,-22.809999465900002,-43.2505569458,28,-3,S,America/Sao_Paulo,airport,OurAirports
+2561,Guajará-Mirim Airport,Guajara-mirim,Brazil,GJM,SBGM,-10.786399841308594,-65.28479766845703,478,-4,S,America/Boa_Vista,airport,OurAirports
+2562,Santa Genoveva Airport,Goiania,Brazil,GYN,SBGO,-16.631999969482422,-49.22069931030274,2450,-3,S,America/Sao_Paulo,airport,OurAirports
+2563,EMBRAER - Unidade Gavião Peixoto Airport,Macae,Brazil,\N,SBGP,-21.773700714111328,-48.40510177612305,1998,-3,S,America/Sao_Paulo,airport,OurAirports
+2564,Guarulhos - Governador André Franco Montoro International Airport,Sao Paulo,Brazil,GRU,SBGR,-23.435556411743164,-46.47305679321289,2459,-3,S,America/Sao_Paulo,airport,OurAirports
+2565,Guaratinguetá Airport,Guaratingueta,Brazil,GUJ,SBGW,-22.79159927368164,-45.20479965209961,1761,-3,S,America/Sao_Paulo,airport,OurAirports
+2566,Altamira Airport,Altamira,Brazil,ATM,SBHT,-3.2539100646973,-52.254001617432,369,-3,S,America/Belem,airport,OurAirports
+2567,Itacoatiara Airport,Itaituba,Brazil,ITA,SBIC,-3.127259969711304,-58.481201171875,142,-4,S,America/Boa_Vista,airport,OurAirports
+2568,Itaituba Airport,Itaituba,Brazil,ITB,SBIH,-4.2423400878906,-56.000701904296996,110,-3,S,America/Belem,airport,OurAirports
+2569,Bahia - Jorge Amado Airport,Ilheus,Brazil,IOS,SBIL,-14.815999984741001,-39.033199310303004,15,-3,S,America/Fortaleza,airport,OurAirports
+2570,Usiminas Airport,Ipatinga,Brazil,IPN,SBIP,-19.470699310302997,-42.487598419189,784,-3,S,America/Sao_Paulo,airport,OurAirports
+2571,Francisco Vilela do Amaral Airport,Itumbiara,Brazil,ITR,SBIT,-18.444700241099998,-49.2134017944,1630,-3,S,America/Sao_Paulo,airport,OurAirports
+2572,Prefeito Renato Moreira Airport,Imperatriz,Brazil,IMP,SBIZ,-5.53129,-47.459998999999996,432,-3,S,America/Fortaleza,airport,OurAirports
+2573,Belém/Brigadeiro Protásio de Oliveira Airport,Belem,Brazil,\N,SBJC,-1.4141600131999998,-48.4607009888,52,-3,S,America/Belem,airport,OurAirports
+2574,Francisco de Assis Airport,Juiz De Fora,Brazil,JDF,SBJF,-21.791500091552734,-43.38679885864258,2989,-3,S,America/Sao_Paulo,airport,OurAirports
+2575,Presidente Castro Pinto International Airport,Joao Pessoa,Brazil,JPA,SBJP,-7.145833015440002,-34.9486122131,217,-3,S,America/Fortaleza,airport,OurAirports
+2576,Lauro Carneiro de Loyola Airport,Joinville,Brazil,JOI,SBJV,-26.22450065612793,-48.797401428222656,15,-3,S,America/Sao_Paulo,airport,OurAirports
+2577,Presidente João Suassuna Airport,Campina Grande,Brazil,CPV,SBKG,-7.26992,-35.8964,1646,-3,S,America/Fortaleza,airport,OurAirports
+2578,Viracopos International Airport,Campinas,Brazil,VCP,SBKP,-23.0074005127,-47.1344985962,2170,-3,S,America/Sao_Paulo,airport,OurAirports
+2579,Lages Airport,Lajes,Brazil,LAJ,SBLJ,-27.7821006775,-50.28150177,3065,-3,S,America/Sao_Paulo,airport,OurAirports
+2580,Lins Airport,Lins,Brazil,LIP,SBLN,-21.663999557494996,-49.730499267578004,1559,-3,S,America/Sao_Paulo,airport,OurAirports
+2581,Governador José Richa Airport,Londrina,Brazil,LDB,SBLO,-23.3335990906,-51.1301002502,1867,-3,S,America/Sao_Paulo,airport,OurAirports
+2582,Bom Jesus da Lapa Airport,Bom Jesus Da Lapa,Brazil,LAZ,SBLP,-13.2621002197,-43.4081001282,1454,-3,S,America/Fortaleza,airport,OurAirports
+2583,Lagoa Santa Airport,Lagoa Santa,Brazil,\N,SBLS,-19.66160011291504,-43.896400451660156,2795,-3,S,America/Sao_Paulo,airport,OurAirports
+2584,João Correa da Rocha Airport,Maraba,Brazil,MAB,SBMA,-5.36858987808,-49.1380004883,357,-3,S,America/Belem,airport,OurAirports
+2585,Monte Dourado Airport,Almeirim,Brazil,MEU,SBMD,-0.8898389999999999,-52.6022,677,-3,S,America/Belem,airport,OurAirports
+2586,Regional de Maringá - Sílvio Nane Junior Airport,Maringa,Brazil,MGF,SBMG,-23.4794445038,-52.01222229,1788,-3,S,America/Sao_Paulo,airport,OurAirports
+2587,Mário Ribeiro Airport,Montes Claros,Brazil,MOC,SBMK,-16.706899642899998,-43.818901061999995,2191,-3,S,America/Sao_Paulo,airport,OurAirports
+2589,Ponta Pelada Airport,Manaus,Brazil,PLL,SBMN,-3.1460399627685547,-59.98630142211914,267,-4,S,America/Boa_Vista,airport,OurAirports
+2590,Zumbi dos Palmares Airport,Maceio,Brazil,MCZ,SBMO,-9.510809898376463,-35.79169845581055,387,-3,S,America/Fortaleza,airport,OurAirports
+2591,Alberto Alcolumbre Airport,Macapa,Brazil,MCP,SBMQ,0.0506640002131,-51.0722007751,56,-3,S,America/Fortaleza,airport,OurAirports
+2592,Dix-Sept Rosado Airport,Mocord,Brazil,MVF,SBMS,-5.2019200325,-37.3642997742,76,-3,S,America/Fortaleza,airport,OurAirports
+2593,Campo de Marte Airport,Sao Paulo,Brazil,\N,SBMT,-23.509099960300002,-46.6377983093,2368,-3,S,America/Sao_Paulo,airport,OurAirports
+2594,Manicoré Airport,Manicore,Brazil,MNX,SBMY,-5.8113799095153995,-61.278301239014,174,-4,S,America/Boa_Vista,airport,OurAirports
+2595,Ministro Victor Konder International Airport,Navegantes,Brazil,NVT,SBNF,-26.879998999999998,-48.651402000000004,18,-3,S,America/Sao_Paulo,airport,OurAirports
+2596,Santo Ângelo Airport,Santo Angelo,Brazil,GEL,SBNM,-28.2817,-54.169102,1056,-3,S,America/Sao_Paulo,airport,OurAirports
+2597,Governador Aluízio Alves International Airport,Natal,Brazil,NAT,SBSG,-5.768056,-35.376111,272,-3,S,America/Fortaleza,airport,OurAirports
+2598,Oiapoque Airport,Oioiapoque,Brazil,OYK,SBOI,3.85548996925354,-51.79690170288086,63,-3,S,America/Fortaleza,airport,OurAirports
+2599,Salgado Filho Airport,Porto Alegre,Brazil,POA,SBPA,-29.994400024414066,-51.1713981628418,11,-3,S,America/Sao_Paulo,airport,OurAirports
+2600,Prefeito Doutor João Silva Filho Airport,Parnaiba,Brazil,PHB,SBPB,-2.89374995232,-41.73199844359999,16,-3,S,America/Fortaleza,airport,OurAirports
+2601,Poços de Caldas - Embaixador Walther Moreira Salles Airport,Pocos De Caldas,Brazil,POO,SBPC,-21.843000411987,-46.567901611328004,4135,-3,S,America/Sao_Paulo,airport,OurAirports
+2602,Lauro Kurtz Airport,Passo Fundo,Brazil,PFB,SBPF,-28.243999,-52.326599,2376,-3,S,America/Sao_Paulo,airport,OurAirports
+2603,João Simões Lopes Neto International Airport,Pelotas,Brazil,PET,SBPK,-31.718398999999998,-52.327702,59,-3,S,America/Sao_Paulo,airport,OurAirports
+2604,Senador Nilo Coelho Airport,Petrolina,Brazil,PNZ,SBPL,-9.362409591674805,-40.56909942626953,1263,-3,S,America/Fortaleza,airport,OurAirports
+2605,Porto Nacional Airport,Porto Nacional,Brazil,PNB,SBPN,-10.719400405883787,-48.39970016479492,870,-3,S,America/Fortaleza,airport,OurAirports
+2606,Ponta Porã Airport,Ponta Pora,Brazil,PMG,SBPP,-22.54960060119629,-55.702598571777344,2156,-4,S,America/Campo_Grande,airport,OurAirports
+2607,Governador Jorge Teixeira de Oliveira Airport,Porto Velho,Brazil,PVH,SBPV,-8.70928955078125,-63.90230178833008,290,-4,S,America/Boa_Vista,airport,OurAirports
+2609,Plácido de Castro Airport,Rio Branco,Brazil,RBR,SBRB,-9.868888854980467,-67.89805603027344,633,-5,S,America/Rio_Branco,airport,OurAirports
+2610,Guararapes - Gilberto Freyre International Airport,Recife,Brazil,REC,SBRF,-8.126489639282228,-34.923599243164055,33,-3,S,America/Fortaleza,airport,OurAirports
+2612,Santos Dumont Airport,Rio De Janeiro,Brazil,SDU,SBRJ,-22.910499572800003,-43.1631011963,11,-3,S,America/Sao_Paulo,airport,OurAirports
+2613,Leite Lopes Airport,Ribeirao Preto,Brazil,RAO,SBRP,-21.136388778686523,-47.77666854858398,1806,-3,S,America/Sao_Paulo,airport,OurAirports
+2614,Santa Cruz Air Force Base,Rio De Janeiro,Brazil,SNZ,SBSC,-22.9324,-43.719101,10,-3,S,America/Sao_Paulo,airport,OurAirports
+2615,Professor Urbano Ernesto Stumpf Airport,Sao Jose Dos Campos,Brazil,SJK,SBSJ,-23.22920036315918,-45.86149978637695,2120,-3,S,America/Sao_Paulo,airport,OurAirports
+2616,Marechal Cunha Machado International Airport,Sao Luis,Brazil,SLZ,SBSL,-2.585360050201416,-44.23410034179688,178,-3,S,America/Fortaleza,airport,OurAirports
+2618,Congonhas Airport,Sao Paulo,Brazil,CGH,SBSP,-23.626110076904297,-46.65638732910156,2631,-3,S,America/Sao_Paulo,airport,OurAirports
+2619,Prof. Eribelto Manoel Reino State Airport,Sao Jose Do Rio Preto,Brazil,SJP,SBSR,-20.8166007996,-49.40650177,1784,-3,S,America/Sao_Paulo,airport,OurAirports
+2620,Base Aérea de Santos Airport,Santos,Brazil,SSZ,SBST,-23.928056716918945,-46.299720764160156,10,-3,S,America/Sao_Paulo,airport,OurAirports
+2621,Deputado Luiz Eduardo Magalhães International Airport,Salvador,Brazil,SSA,SBSV,-12.9086112976,-38.3224983215,64,-3,S,America/Fortaleza,airport,OurAirports
+2622,Trombetas Airport,Oriximina,Brazil,TMT,SBTB,-1.489599943161,-56.396800994873,287,-3,S,America/Belem,airport,OurAirports
+2623,Senador Petrônio Portela Airport,Teresina,Brazil,THE,SBTE,-5.0599398613,-42.8235015869,219,-3,S,America/Fortaleza,airport,OurAirports
+2624,Tefé Airport,Tefe,Brazil,TFF,SBTF,-3.38294005394,-64.7240982056,188,-4,S,America/Boa_Vista,airport,OurAirports
+2625,Tarauacá Airport,Tarauaca,Brazil,TRQ,SBTK,-8.1552600860596,-70.783302307129,646,-5,S,America/Rio_Branco,airport,OurAirports
+2626,Telêmaco Borba Airport,Telemaco Borba,Brazil,TEC,SBTL,-24.317800521850586,-50.6515998840332,2610,-3,S,America/Sao_Paulo,airport,OurAirports
+2627,Tiriós Airport,Obidos Tirios,Brazil,\N,SBTS,2.2234700000000003,-55.946098,1127,-3,S,America/Belem,airport,OurAirports
+2628,Tabatinga Airport,Tabatinga,Brazil,TBT,SBTT,-4.2556700706482,-69.93579864502,279,-4,S,America/Boa_Vista,airport,OurAirports
+2629,Tucuruí Airport,Tucurui,Brazil,TUR,SBTU,-3.7860100269317996,-49.72029876709001,830,-3,S,America/Belem,airport,OurAirports
+2630,São Gabriel da Cachoeira Airport,Sao Gabriel,Brazil,SJL,SBUA,-0.14835,-66.9855,251,-4,S,America/Boa_Vista,airport,OurAirports
+2631,Paulo Afonso Airport,Paulo Alfonso,Brazil,PAV,SBUF,-9.4008798599243,-38.250598907471,883,-3,S,America/Fortaleza,airport,OurAirports
+2632,Rubem Berta Airport,Uruguaiana,Brazil,URG,SBUG,-29.782199859600002,-57.0382003784,256,-3,S,America/Sao_Paulo,airport,OurAirports
+2633,Ten. Cel. Aviador César Bombonato Airport,Uberlandia,Brazil,UDI,SBUL,-18.883612,-48.225277,3094,-3,S,America/Sao_Paulo,airport,OurAirports
+2635,Mário de Almeida Franco Airport,Uberaba,Brazil,UBA,SBUR,-19.764722824097,-47.966110229491996,2655,-3,S,America/Sao_Paulo,airport,OurAirports
+2636,Major Brigadeiro Trompowsky Airport,Varginha,Brazil,VAG,SBVG,-21.5900993347,-45.473300933800004,3025,-3,S,America/Sao_Paulo,airport,OurAirports
+2637,Brigadeiro Camarão Airport,Vilhena,Brazil,BVH,SBVH,-12.694399833678998,-60.098300933838,2018,-4,S,America/Boa_Vista,airport,OurAirports
+2638,Eurico de Aguiar Salles Airport,Vitoria,Brazil,VIX,SBVT,-20.258057,-40.286388,11,-3,S,America/Sao_Paulo,airport,OurAirports
+2639,Iauaretê Airport,Iauarete,Brazil,\N,SBYA,0.6075000166893,-69.18579864502,345,-4,S,America/Boa_Vista,airport,OurAirports
+2640,Campo Fontenelle Airport,Piracununga,Brazil,QPS,SBYS,-21.984600067138672,-47.33480072021485,1968,-3,S,America/Sao_Paulo,airport,OurAirports
+4092,Maestro Wilson Fonseca Airport,Santarem,Brazil,STM,SBSN,-2.424721956253052,-54.78583145141602,198,-3,S,America/Belem,airport,OurAirports
+4209,Porto Seguro Airport,Porto Seguro,Brazil,BPS,SBPS,-16.438601000000002,-39.080898,168,-3,S,America/Fortaleza,airport,OurAirports
+4213,Iguatu Airport,Iguatu,Brazil,QIG,SNIG,-6.346640110015869,-39.293800354003906,699,-3,S,America/Fortaleza,airport,OurAirports
+4214,Brigadeiro Lysias Rodrigues Airport,Palmas,Brazil,PMW,SBPJ,-10.2915000916,-48.3569984436,774,-3,S,America/Fortaleza,airport,OurAirports
+4215,Nelson Ribeiro Guimarães Airport,Caldas Novas,Brazil,CLV,SBCN,-17.725299835205,-48.607498168945,2247,-3,S,America/Sao_Paulo,airport,OurAirports
+6034,Orlando Bezerra de Menezes Airport,Juazeiro Do Norte,Brazil,JDO,SBJU,-7.21895980835,-39.270099639899996,1392,-3,S,America/Fortaleza,airport,OurAirports
+6036,Coronel Horácio de Mattos Airport,Lençóis,Brazil,LEC,SBLE,-12.4822998047,-41.2770004272,1676,-3,S,America/Fortaleza,airport,OurAirports
+6037,Macaé Airport,Macaé,Brazil,MEA,SBME,-22.343000412,-41.7659988403,8,-3,S,America/Sao_Paulo,airport,OurAirports
+6038,Frank Miloye Milenkowichi–Marília State Airport,Marília,Brazil,MII,SBML,-22.1968994141,-49.926399231000005,2122,-3,S,America/Sao_Paulo,airport,OurAirports
+6039,Vitória da Conquista Airport,Vitória Da Conquista,Brazil,VDC,SBQV,-14.8627996445,-40.8630981445,3002,-3,S,America/Fortaleza,airport,OurAirports
+6040,Santa Maria Airport,Santa Maria,Brazil,RIA,SBSM,-29.711399,-53.688202000000004,287,-3,S,America/Sao_Paulo,airport,OurAirports
+6041,Toledo Airport,Toledo,Brazil,TOW,SBTD,-24.6863,-53.697497999999996,1843,-3,S,America/Sao_Paulo,airport,OurAirports
+6044,Sorocaba Airport,Sorocaba,Brazil,SOD,SDCO,-23.478001000000003,-47.490002000000004,2077,-3,S,America/Sao_Paulo,airport,OurAirports
+6062,Mucuri Airport,Mucuri,Brazil,MVS,SNMU,-18.048900604248047,-39.864200592041016,276,-3,S,America/Fortaleza,airport,OurAirports
+6069,Santa Rosa Airport,Santa Rosa,Brazil,SRA,SSZR,-27.9067,-54.520401,984,-3,S,America/Sao_Paulo,airport,OurAirports
+6073,Ji-Paraná Airport,Ji-Paraná,Brazil,JPR,SWJI,-10.870800018299999,-61.8465003967,598,-4,S,America/Boa_Vista,airport,OurAirports
+6477,Erechim Airport,Erechim,Brazil,ERM,SSER,-27.66189956665039,-52.2682991027832,2498,-3,S,America/Sao_Paulo,airport,OurAirports
+6735,Coronel Altino Machado de Oliveira Airport,Governador Valadares,Brazil,GVR,SBGV,-18.89520072937,-41.982200622559,561,-3,S,America/Sao_Paulo,airport,OurAirports
+7125,Amarais Airport,Campinas,Brazil,CPQ,SDAM,-22.85919952392578,-47.10820007324219,2008,-3,S,America/Sao_Paulo,airport,OurAirports
+7364,Cabo Frio Airport,Cabo Frio,Brazil,CFB,SBCB,-22.921699523900003,-42.0742988586,23,-3,S,America/Sao_Paulo,airport,OurAirports
+7367,Presidente João Batista Figueiredo Airport,Sinop,Brazil,OPS,SWSI,-11.885000228881836,-55.58610916137695,1227,-4,S,America/Campo_Grande,airport,OurAirports
+7368,Gurupi Airport,Gurupi,Brazil,GRP,SWGI,-11.73960018157959,-49.13219833374024,1148,-3,S,America/Fortaleza,airport,OurAirports
+7369,Santana do Araguaia Airport,Santana do Araguaia,Brazil,CMP,SNKE,-9.31997013092041,-50.32849884033203,597,-3,S,America/Belem,airport,OurAirports
+7370,Breves Airport,Breves,Brazil,BVS,SNVS,-1.6365300416946411,-50.44359970092773,98,-3,S,America/Belem,airport,OurAirports
+7371,Soure Airport,Soure,Brazil,SFK,SNSW,-0.6994310021400452,-48.52099990844727,43,-3,S,America/Belem,airport,OurAirports
+7372,Parintins Airport,Parintins,Brazil,PIN,SWPI,-2.6730198860168457,-56.777198791503906,87,-4,S,America/Boa_Vista,airport,OurAirports
+7373,Barreiras Airport,Barreiras,Brazil,BRA,SNBR,-12.078900337219238,-45.00899887084961,2447,-3,S,America/Fortaleza,airport,OurAirports
+7374,Santa Terezinha Airport,Santa Terezinha,Brazil,STZ,SWST,-10.4647216796875,-50.51861190795898,663,-4,S,America/Campo_Grande,airport,OurAirports
+7375,Minaçu Airport,Minacu,Brazil,MQH,SBMC,-13.5491,-48.195301,1401,-3,S,America/Sao_Paulo,airport,OurAirports
+7376,Araguaína Airport,Araguaina,Brazil,AUX,SWGN,-7.227869999999999,-48.240501,771,-3,S,America/Fortaleza,airport,OurAirports
+7377,Novo Aripuanã Airport,Novo Aripuana,Brazil,NVP,SWNA,-5.118030071258545,-60.36489868164063,118,-4,S,America/Boa_Vista,airport,OurAirports
+7378,Fazenda Colen Airport,Lucas do Rio Verde,Brazil,\N,SWFE,-13.314443588256836,-56.11277770996094,1345,-4,S,America/Campo_Grande,airport,OurAirports
+7379,Tenente Lund Pressoto Airport,Franca,Brazil,FRC,SIMK,-20.592199,-47.3829,3292,-3,S,America/Sao_Paulo,airport,OurAirports
+7380,Dourados Airport,Dourados,Brazil,DOU,SSDO,-22.2019,-54.926601,1503,-4,S,America/Campo_Grande,airport,OurAirports
+7381,Lábrea Airport,Labrea,Brazil,LBR,SWLB,-7.278969764709473,-64.76950073242189,190,-4,S,America/Boa_Vista,airport,OurAirports
+7382,Maestro Marinho Franco Airport,Rondonopolis,Brazil,ROO,SWRD,-16.586,-54.7248,1467,-4,S,America/Campo_Grande,airport,OurAirports
+7383,Tancredo Thomas de Faria Airport,Guarapuava,Brazil,GPB,SBGU,-25.3875007629,-51.520198822,3494,-3,S,America/Sao_Paulo,airport,OurAirports
+7384,Santa Terezinha Airport,Joacaba,Brazil,JCB,SSJA,-27.1714000702,-51.5532989502,2546,-3,S,America/Sao_Paulo,airport,OurAirports
+7394,General Leite de Castro Airport,Rio Verde,Brazil,RVD,SWLC,-17.8347225189209,-50.95611190795898,2464,-3,S,America/Sao_Paulo,airport,OurAirports
+7395,Romeu Zema Airport,Araxa,Brazil,AAX,SBAX,-19.563199996948,-46.960399627686,3276,-3,S,America/Sao_Paulo,airport,OurAirports
+7396,Maués Airport,Maues,Brazil,MBZ,SWMW,-3.3721699999999997,-57.7248,69,-4,S,America/Boa_Vista,airport,OurAirports
+7397,Borba Airport,Borba,Brazil,RBB,SWBR,-4.4063401222229,-59.60240173339844,293,-4,S,America/Boa_Vista,airport,OurAirports
+7398,Coari Airport,Coari,Brazil,CIZ,SWKO,-4.1340599060058585,-63.13259887695313,131,-4,S,America/Boa_Vista,airport,OurAirports
+7399,Barcelos Airport,Barcelos,Brazil,BAZ,SWBC,-0.981292,-62.919601,112,-4,S,America/Boa_Vista,airport,OurAirports
+7406,Diamantino Airport,Diamantino,Brazil,DMT,SWDM,-14.37689971923828,-56.40039825439453,1476,-4,S,America/Campo_Grande,airport,OurAirports
+7407,Guanambi Airport,Guanambi,Brazil,GNM,SNGI,-14.208200454711914,-42.74610137939453,1815,-3,S,America/Fortaleza,airport,OurAirports
+7531,Maturacá Airport,Maturaca,Brazil,\N,SWMK,0.6282690167427063,-66.11509704589844,354,-4,S,America/Boa_Vista,airport,OurAirports
+7532,Carajás Airport,Parauapebas,Brazil,CKS,SBCJ,-6.11527776718,-50.0013885498,2064,-3,S,America/Belem,airport,OurAirports
+7533,Centro de Lançamento de Alcântara Airport,Alcantara,Brazil,\N,SNCW,-2.372999906539917,-44.396400451660156,148,-3,S,America/Fortaleza,airport,OurAirports
+7671,Valença Airport,Valenca,Brazil,VAL,SNVB,-13.2965,-38.992401,21,-3,S,America/Fortaleza,airport,OurAirports
+7673,Caruaru Airport,Caruaru,Brazil,CAU,SNRU,-8.282389640808105,-36.01350021362305,1891,-3,S,America/Fortaleza,airport,OurAirports
+7675,Aeroclube Airport,Nova Iguacu,Brazil,QNV,SDNY,-22.74530029296875,-43.46030044555664,164,-3,S,America/Sao_Paulo,airport,OurAirports
+8152,Blumenau Airport,BLUMENAU,Brazil,BNU,SSBL,-26.83060073852539,-49.09030151367188,60,-3,S,America/Sao_Paulo,airport,OurAirports
+8180,Zona da Mata Regional Airport,Juiz de Fora,Brazil,IZA,SDZY,-21.5130558014,-43.1730575562,1348,-3,S,America/Sao_Paulo,airport,OurAirports
+8237,Patos de Minas Airport,Patos de Minas,Brazil,POJ,SNPD,-18.672800064086914,-46.4911994934082,2793,-3,S,America/Sao_Paulo,airport,OurAirports
+8238,Bauru - Arealva Airport,Bauru,Brazil,JTC,SJTC,-22.1668591409,-49.0502866745,1949,-3,S,America/Sao_Paulo,airport,OurAirports
+8239,Ourilândia do Norte Airport,Ourilandia do Norte,Brazil,OIA,SDOW,-6.763100147250001,-51.0499000549,901,-3,S,America/Belem,airport,OurAirports
+8240,Redenção Airport,Redencao,Brazil,RDC,SNDC,-8.033289909362793,-49.97990036010742,670,-3,S,America/Belem,airport,OurAirports
+8241,São Félix do Xingu Airport,Sao Felix do Xingu,Brazil,SXX,SNFX,-6.6413,-51.9523,656,-3,S,America/Belem,airport,OurAirports
+8242,Bonito Airport,Bointo,Brazil,BYO,SJDB,-21.247298999999998,-56.452498999999996,1180,-4,S,America/Campo_Grande,airport,OurAirports
+8243,São Félix do Araguaia Airport,Sao Felix do Araguaia,Brazil,SXO,SWFX,-11.632399559020994,-50.68960189819336,650,-4,S,America/Campo_Grande,airport,OurAirports
+8244,Caçador Airport,Cacador,Brazil,CFC,SBCD,-26.78840065,-50.9398002625,3376,-3,S,America/Sao_Paulo,airport,OurAirports
+8245,Carauari Airport,Carauari,Brazil,CAF,SWCA,-4.871520042419434,-66.89749908447266,355,-4,S,America/Boa_Vista,airport,OurAirports
+8246,Urucu Airport,Porto Urucu,Brazil,\N,SWUY,-4.8842201232899995,-65.3554000854,243,-4,S,America/Boa_Vista,airport,OurAirports
+8247,Eirunepé Airport,Eirunepe,Brazil,ERN,SWEI,-6.6395301818847665,-69.87979888916016,412,-4,S,America/Boa_Vista,airport,OurAirports
+8248,Concórdia Airport,Concordia,Brazil,CCI,SSCK,-27.180599212646484,-52.05270004272461,2461,-3,S,America/Sao_Paulo,airport,OurAirports
+8249,Francisco Beltrão Airport,Francisco Beltrao,Brazil,FBE,SSFB,-26.059200286865234,-53.0634994506836,2100,-3,S,America/Sao_Paulo,airport,OurAirports
+8250,Confresa Airport,Confresa,Brazil,CFO,SJHG,-10.634400367736816,-51.5635986328125,781,-4,S,America/Campo_Grande,airport,OurAirports
+8253,Umuarama Airport,Umuarama,Brazil,UMU,SSUM,-23.7987003326416,-53.31380081176758,1558,-3,S,America/Sao_Paulo,airport,OurAirports
+8254,Diamantina Airport,Diamantina,Brazil,DTI,SNDT,-18.232000351,-43.650398254399995,4446,-3,S,America/Sao_Paulo,airport,OurAirports
+8255,Fonte Boa Airport,Fonte Boa,Brazil,FBA,SWOB,-2.5326099395800004,-66.0831985474,207,-4,S,America/Boa_Vista,airport,OurAirports
+8256,Senadora Eunice Micheles Airport,Sao Paulo de Olivenca,Brazil,OLC,SDCG,-3.46792950765,-68.9204120636,335,-4,S,America/Boa_Vista,airport,OurAirports
+8257,Humaitá Airport,Humaita,Brazil,HUW,SWHT,-7.532120227810001,-63.072101593,230,-4,S,America/Boa_Vista,airport,OurAirports
+8258,Tapuruquara Airport,Santa Isabel do Rio Negro,Brazil,IRZ,SWTP,-0.3786,-64.9923,223,-4,S,America/Boa_Vista,airport,OurAirports
+8259,Oriximiná Airport,Oriximina,Brazil,ORX,SNOX,-1.714079976081848,-55.83620071411133,262,-3,S,America/Belem,airport,OurAirports
+8260,Hotel Transamérica Airport,Una,Brazil,UNA,SBTC,-15.3551998138,-38.9990005493,20,-3,S,America/Fortaleza,airport,OurAirports
+8927,Lorenzo Airport,Morro de Sao Paulo,Brazil,\N,SNCL,-13.389444351196287,-38.90999984741211,3,-3,S,America/Fortaleza,airport,OurAirports
+8952,Botucatu - Tancredo de Almeida Neves Airport,Botucatu,Brazil,QCJ,SDBK,-22.939501,-48.467999,3012,-3,S,America/Sao_Paulo,airport,OurAirports
+8953,Base Aérea Airport,Anapolis,Brazil,\N,SBAN,-16.2292,-48.964298,3731,-3,S,America/Sao_Paulo,airport,OurAirports
+8954,Mário Pereira Lopes–São Carlos Airport,Sao Carlos,Brazil,QSC,SDSC,-21.875401,-47.903703,2649,-3,S,America/Sao_Paulo,airport,OurAirports
+9089,Estadual Arthur Siqueira Airport,Braganca Paulista,Brazil,BJP,SBBP,-22.979162,-46.537508,2887,-3,S,America/Sao_Paulo,airport,OurAirports
+9149,Americana Airport,Americana,Brazil,\N,SDAI,-22.755800247192386,-47.26940155029297,2085,-3,S,America/Sao_Paulo,airport,OurAirports
+9769,Plínio Alarcom Airport,Tres Lagoas,Brazil,TJL,SSTL,-20.754199981689,-51.68420028686499,1050,-4,S,America/Campo_Grande,airport,OurAirports
+9771,Cacoal Airport,Cacoal,Brazil,OAL,SSKW,-11.495999999999999,-61.4508,778,-4,N,America/Boa_Vista,airport,OurAirports
+10154,Pouso Alegre Airport,Pouso Alegre,Brazil,PPY,SNZA,-22.28919982910156,-45.91910171508789,2904,-3,S,\N,airport,OurAirports
+10155,Brigadeiro Cabral Airport,Divinopolis,Brazil,DIQ,SNDV,-20.180700302124,-44.870899200439,2608,-3,S,\N,airport,OurAirports
+10544,Guarapari Airport,Guarapari,Brazil,GUZ,SNGA,-20.646499633800005,-40.49190139770001,28,-3,S,\N,airport,OurAirports
+10545,Ubatuba Airport,Ubatuba,Brazil,UBT,SDUB,-23.44109916687012,-45.075599670410156,13,-3,S,\N,airport,OurAirports
+10794,Morro da Urca Heliport,Rio de Janeiro,Brazil,\N,SDHU,-22.95166778564453,-43.16583251953125,692,-3,S,\N,airport,OurAirports
+11142,Paracatu Airport,Paracatu,Brazil,\N,SNZR,-17.242599487304688,-46.88309860229492,2359,-3,S,\N,airport,OurAirports
+11143,Das Bandeirinhas Airport,Conselheiro Lafaiete,Brazil,\N,SNKF,-20.738585,-43.797444,3478,-3,S,\N,airport,OurAirports
+11144,Janaúba Airport,Janauba,Brazil,\N,SNAP,-15.732000000000001,-43.323102,1732,-3,S,\N,airport,OurAirports
+11145,Juscelino Kubitscheck Airport,Teofilo Otoni,Brazil,TFL,SNTO,-17.89229965209961,-41.51359939575195,1572,-3,S,\N,airport,OurAirports
+11146,Cristiano Ferreira Varella Airport,Muriae,Brazil,\N,SNBM,-21.126100540161133,-42.39440155029297,886,-3,S,\N,airport,OurAirports
+11175,Parati Airport,Paraty,Brazil,\N,SDTK,-23.2243995667,-44.72029876710001,10,-3,S,\N,airport,OurAirports
+11176,Umberto Modiano Airport,Buzios,Brazil,BZC,SBBZ,-22.770999908447266,-41.96289825439453,10,-3,S,\N,airport,OurAirports
+11177,Angra dos Reis Airport,Angra dos Reis,Brazil,\N,SDAG,-22.975299835205078,-44.30709838867188,10,-3,S,\N,airport,OurAirports
+11178,Itaperuna Airport,Itaperuna,Brazil,ITP,SDUN,-21.2192993164,-41.8759002686,410,-3,S,\N,airport,OurAirports
+11179,Maricá Airport,Marica,Brazil,\N,SDMC,-22.9195,-42.830898,13,-3,S,\N,airport,OurAirports
+11180,Resende Airport,Resende,Brazil,REZ,SDRS,-22.4785003662,-44.4803009033,1320,-3,S,\N,airport,OurAirports
+11181,Saquarema Airport,Saquarema,Brazil,\N,SDSK,-22.92972183227539,-42.50694274902344,26,-3,S,\N,airport,OurAirports
+11198,Aripuanã Airport,Aripuana,Brazil,AIR,SWRP,-10.188278,-59.457273,623,-4,S,\N,airport,OurAirports
+11199,Juruena Airport,Juruena,Brazil,JRN,SWJU,-10.305832862854004,-58.48944473266602,525,-4,S,\N,airport,OurAirports
+11200,Juína Airport,Juina,Brazil,JIA,SWJN,-11.419444,-58.701668000000005,1083,-4,S,\N,airport,OurAirports
+11201,Vila Rica Airport,Vila Rica,Brazil,VLP,SWVC,-9.979443550109863,-51.1422233581543,892,-4,S,\N,airport,OurAirports
+11202,Inácio Luís do Nascimento Airport,Juara,Brazil,JUA,SIZX,-11.2966,-57.5495,870,-4,S,\N,airport,OurAirports
+11203,Cáceres Airport,Caceres,Brazil,CCX,SWKC,-16.04360008239746,-57.62990188598633,492,-4,S,\N,airport,OurAirports
+11204,Posto Leonardo Vilas Boas Airport,Chapada dos Guimaraes,Brazil,\N,SWPL,-12.19833278656006,-53.38166809082031,1083,-4,S,\N,airport,OurAirports
+11205,Tangará da Serra Airport,Tangara da Serra,Brazil,TGQ,SWTS,-14.6619997025,-57.4435005188,1460,-4,S,\N,airport,OurAirports
+11206,Canarana Airport,Canarana,Brazil,CQA,SWEK,-13.574443817138672,-52.27055740356445,1314,-4,S,\N,airport,OurAirports
+11207,Vila Bela da Santíssima Trindade Airport,Vila Bela da Santissima Trindade ,Brazil,MTG,SWVB,-14.9942,-59.9458,660,-4,S,\N,airport,OurAirports
+11209,Sobral Airport,Sobral,Brazil,\N,SNOB,-3.67889,-40.336802,210,-3,N,\N,airport,OurAirports
+11210,Arapiraca Airport,Arapiraca,Brazil,APQ,SNAL,-9.775360107421877,-36.62919998168945,886,-3,N,\N,airport,OurAirports
+11211,Cangapara Airport,Floriano,Brazil,FLB,SNQG,-6.8463897705078125,-43.07730102539063,689,-3,N,\N,airport,OurAirports
+11212,Picos Airport,Picos,Brazil,PCS,SNPC,-7.0620598793029785,-41.52370071411133,1050,-3,N,\N,airport,OurAirports
+11295,São Miguel do Oeste Airport,Sao Miguel do Oeste,Brazil,SQX,SSOE,-26.78160095214844,-53.503501892089844,2180,-3,S,\N,airport,OurAirports
+11930,Chafei Amsei Airport,Barretos,Brazil,BAT,SBBT,-20.584499359131,-48.594100952148,1898,\N,\N,\N,airport,OurAirports
+11931,Base de Aviação de Taubaté Airport,Taubaté,Brazil,QHP,SBTA,-23.04010009765625,-45.51599884033203,1908,\N,\N,\N,airport,OurAirports
+12059,Itapiranga Airport,Itapiranga,Brazil,\N,SSYT,-27.14249992370605,-53.68579864501953,1247,-3,S,\N,airport,OurAirports
+12163,Jacarepaguá - Roberto Marinho Airport,Rio de Janeiro,Brazil,\N,SBJR,-22.987499,-43.369999,10,-3,S,\N,airport,OurAirports
+12980,Helisul I Heliport,Foz do Iguassu,Brazil,\N,SSHH,-25.604167938232425,-54.49361038208008,732,-3,S,\N,airport,OurAirports
+12987,Humberto Ghizzo Bortoluzzi Regional Airport,Jaguaruna,Brazil,JJG,SBJA,-28.6753,-49.0596,120,-3,S,\N,airport,OurAirports
+13121,Fazenda Vaticano Airport,Cruz,Brazil,\N,SSVV,-21.294442999999998,-56.11861,1050,-3,U,\N,airport,OurAirports
+13230,9 de Maio - Teixeira de Freitas Airport,Teixeira de Freitas,Brazil,TXF,SNTF,-17.524499893188,-39.66849899292,344,-3,S,\N,airport,OurAirports
+13315,Ponta Grossa Airport - Comandante Antonio Amilton Beraldo,Ponta Grossa,Brazil,PGZ,SSZW,-25.1847,-50.1441,2588,-3,S,\N,airport,OurAirports
+13397,Olhos D`água Airport,Agua Boa,Brazil,\N,SWHP,-14.019444,-52.152221999999995,1506,-4,S,\N,airport,OurAirports
+13398,Novo Progresso Airport,Novo Progresso,Brazil,NPR,SJNP,-7.125833,-55.400833,794,-3,S,\N,airport,OurAirports
+13399,Adolino Bedin Regional Airport,Sorriso,Brazil,SMT,SBSO,-12.479177,-55.672341,1266,-4,S,\N,airport,OurAirports
+13400,Serra da Capivara Airport,Sao Raimundo Nonato,Brazil,\N,SWKQ,-9.082778,-42.644444,1362,-3,S,\N,airport,OurAirports
+13491,Pimenta Bueno Airport,Pimenta Bueno,Brazil,PBQ,SWPM,-11.641599655151367,-61.179100036621094,682,-4,S,\N,airport,OurAirports
+13492,Ariquemes Airport,ARIQUEMES,Brazil,\N,SJOG,-9.884721755981444,-63.04888916015625,530,-4,S,\N,airport,OurAirports
+13493,Fazenda Spartacus Airport,COLNIZA,Brazil,\N,SIXZ,-24.0,-48.60833358764648,2346,-4,S,\N,airport,OurAirports
+13497,Fazenda Mequens Airport,ALTA FLORESTA D'OESTE,Brazil,\N,SJTF,-13.061944007873535,-62.25749969482422,552,-4,S,\N,airport,OurAirports
+13498,Prainha Airport,APUI,Brazil,\N,SWYN,-7.17287015914917,-59.839599609375,197,-4,S,\N,airport,OurAirports
+13499,Mostardas Airport,SANTO ANTONIO DO MATUPI,Brazil,\N,SSMT,-31.103599548339844,-50.9103012084961,59,-4,S,\N,airport,OurAirports
+13500,Santo Domingo Airport,CONSELVAN,Brazil,\N,SCSN,-33.65639877319336,-71.6144027709961,246,-4,S,\N,airport,OurAirports
+13595,Fazenda Várzea Funda Airport,PRIMAVERA D'OESTE,Brazil,\N,SIEL,-16.583610534667972,-57.73222351074219,709,-4,S,\N,airport,OurAirports
+13597,Primavera do Leste Airport,PRIMAVERA DO LESTE,Brazil,\N,SWPY,-15.565555572509766,-54.33777618408203,2149,-4,S,\N,airport,OurAirports
+13636,Comte. Rolim Adolfo Amaro–Jundiaí State Airport,Jundiai,Brazil,\N,SBJD,-23.180369,-46.944408,2484,-3,S,\N,airport,OurAirports
+13643,Helisul IV Heliport,Foz Do Iguacu,Brazil,\N,SSHS,-25.613056182861328,-54.39805603027344,676,-3,N,\N,airport,OurAirports
+13668,Fazenda Jatobasso Airport,JARU,Brazil,\N,SIDG,-22.42916679382324,-55.53333282470703,2152,-4,S,\N,airport,OurAirports
+13669,FIC Heliport,MACHADINHO D'OESTE,Brazil,\N,SIMC,-22.711389541625977,-47.14110946655274,1985,-4,S,\N,airport,OurAirports
+13683,Fazenda São Nicolau Airport,COTRIGUACU,Brazil,\N,SWQT,-9.8644437789917,-58.229167938232,738,0,U,\N,airport,OurAirports
+13723,Augusto Severo Airport,Natal,Brazil,\N,SBNT,-5.91141986847,-35.2476997375,169,\N,\N,\N,airport,OurAirports
+13735,Flores Airport,MANAUS,Brazil,\N,SWFN,-3.0727779865264893,-60.02111053466797,203,-4,S,\N,airport,OurAirports
+13772,Fazenda Uiapuru Airport,COMODORO,Brazil,\N,SWVJ,-13.663888931274414,-56.002220153808594,1519,-4,S,\N,airport,OurAirports
+13830,Fazenda Kajussol Airport,Alta Floresta D'Oeste,Brazil,\N,SJYD,-11.9647216796875,-61.6866683959961,636,-4,S,\N,airport,OurAirports
+13881,Costa Marques Airport,COSTA MARQUES,Brazil,CQS,SWCQ,-12.421099662780762,-64.25160217285156,555,-4,S,\N,airport,OurAirports
