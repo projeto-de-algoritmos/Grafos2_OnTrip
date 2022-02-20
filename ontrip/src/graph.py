@@ -80,17 +80,25 @@ class Graph:
             return None
         return path
 
-    def dijkstra(self, start):
-        nodes = self.get_nodes()
-        distances = {}
-        adjacents = {n: {} for n in nodes}
-
+    def get_adjacentes_list(self):
+        adjacents = {n: {} for n in self.get_nodes()}
         for first, second, distance in self.edges:
-            distances[first] = (inf, None)
-            distances[second] = (inf, None)
             adjacents.setdefault(first, dict())[second] = distance
             adjacents.setdefault(second, dict())[first] = distance
+        return adjacents
+
+    def get_distances_list(self, start: str):
+        distances = dict()
+        for first, second, _ in self.edges:
+            distances[first] = (inf, None)
+            distances[second] = (inf, None)
         distances[start] = (0, start)
+        return distances
+
+    def dijkstra(self, start: str):
+        nodes = self.get_nodes()
+        distances = self.get_distances_list(start=start)
+        adjacents = self.get_adjacentes_list()
 
         temporary_nodes = [n for n in nodes]
         while len(temporary_nodes) > 0:
@@ -101,18 +109,17 @@ class Graph:
             for node, distance in adjacents[lower_bound].items():
                 new_distance = (distances[lower_bound][0] + distance, lower_bound)
                 distances[node] = min(distances[node], new_distance, key=lambda v:v[0])
-
         return distances
 
-    def find_shortest_path(self, start, end):
-        dijkstra_dict = self.dijkstra(start=start)
+    def find_shortest_path(self, start: str, end: str):
         path = list()
-
         path.append(end)
-        tmp_tutle = dijkstra_dict.get(end)
-        while tmp_tutle[1] != start:
-            path.append(tmp_tutle[1])
-            tmp_tutle = dijkstra_dict.get(tmp_tutle[1])
+        dijkstra_dict = self.dijkstra(start=start)
+
+        _, node = dijkstra_dict.get(end)
+        while node != start:
+            path.append(node)
+            _, node = dijkstra_dict.get(node)
         path.append(start)
         path.reverse()
         return path
