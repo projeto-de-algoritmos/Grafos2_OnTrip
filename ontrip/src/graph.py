@@ -104,9 +104,15 @@ class Graph:
 
         return distances
 
-    # def find_shortest_path(self, start, end):
-    #     dijkstra_dict = self.dijkstra(start=start)
-    #     path = list()
+    def find_shortest_path(self, start, end):
+        dijkstra_dict = self.dijkstra(start=start)
+        path = list()
 
-    #     end_tuple = dijkstra_dict.get(end)
-    #     while end_tuple[1] != start
+        path.append(end)
+        tmp_tutle = dijkstra_dict.get(end)
+        while tmp_tutle[1] != start:
+            path.append(tmp_tutle[1])
+            tmp_tutle = dijkstra_dict.get(tmp_tutle[1])
+        path.append(start)
+        path.reverse()
+        return path
