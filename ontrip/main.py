@@ -44,7 +44,7 @@ async def find_path(path: Path):
     )
     graph = Graph(edges=edges)
     graph.init_graph()
-    path = graph.bfs(
+    path = graph.find_shortest_path(
         start=path.source,
         end=path.destination
     )
